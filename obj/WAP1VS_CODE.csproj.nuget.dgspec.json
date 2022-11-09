@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Viveksingh.Kushwah\\Documents\\D\\API\\WAP1VS_CODE\\WAP1VS_CODE.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Viveksingh.Kushwah\\Documents\\D\\API\\WAP1VS_CODE\\WAP1VS_CODE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Viveksingh.Kushwah\\Documents\\D\\API\\WAP1VS_CODE\\WAP1VS_CODE.csproj",
+        "projectName": "WAP1VS_CODE",
+        "projectPath": "C:\\Users\\Viveksingh.Kushwah\\Documents\\D\\API\\WAP1VS_CODE\\WAP1VS_CODE.csproj",
+        "packagesPath": "C:\\Users\\Viveksingh.Kushwah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Viveksingh.Kushwah\\Documents\\D\\API\\WAP1VS_CODE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Viveksingh.Kushwah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dealersocket.jfrog.io/dealersocket/api/nuget/nuget": {},
+          "https://nuget.dealersocket.engineering/api/odata": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
